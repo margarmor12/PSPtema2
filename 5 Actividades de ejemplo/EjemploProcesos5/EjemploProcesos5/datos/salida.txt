@@ -1,0 +1,3 @@
+Mensaje desde el proceso hijo
+He leído la siguiente información: 8 Hola
+64

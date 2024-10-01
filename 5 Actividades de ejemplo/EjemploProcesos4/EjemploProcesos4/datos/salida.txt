@@ -1,0 +1,2 @@
+Mensaje desde el proceso hijo
+64

@@ -1,0 +1,5 @@
+Ejemplo1 - Lanzar un programa /comando como un proceso hijo
+Ejemplo 2 - Lanzar un programa /comando como un proceso hijo y recoger su información de salida / error
+Ejemplo 3 - Lanzar un programa /comando como un proceso hijo. Enviar información al proceso hijo y obtener su información de salida / error
+Ejemplo 4 -  Lanzar un programa /comando como un proceso hijo. Enviar información al proceso hijo como argumentos y obtener su información de salida / error
+Ejemplo 5 -  Lanzar un programa /comando como un proceso hijo. Redirigir la entrada / salida / error del proceso a/desde ficheros. Obtener su información de error
